@@ -23,5 +23,5 @@ go.work
 # project files
 main.go
 
-// JetBrains IDE
+# JetBrains IDE
 **/.idea
